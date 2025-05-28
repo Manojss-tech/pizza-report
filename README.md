@@ -1,4 +1,4 @@
-# pizza-report
+# Pizza-report
 🔍 Data Storytelling: Understanding Pizza Palace’s Sales Landscape
 Pizza Palace’s business data reveals a comprehensive look at product performance, customer preferences, and sales trends. The visuals demonstrate how various pizza types, sizes, and time frames contribute to the company’s total income of 899.65K.
 
